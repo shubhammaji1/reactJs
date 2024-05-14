@@ -17,7 +17,8 @@
     },
     "vscode": {
       "extensions": [
-        "NicholasHsiang.vscode-react-snippet"
+        "NicholasHsiang.vscode-react-snippet",
+        "esbenp.prettier-vscode"
       ]
     }
   },
