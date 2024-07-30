@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { question } from './api'
 import MyAccordian from './MyAccordian.js'
 
-export function Accordian(props) {
+export function Accordian() {
     
     const [data, setData] = useState(question)
     return (
